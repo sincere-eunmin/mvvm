@@ -1,4 +1,4 @@
-##  MVVM(file/mvvm.pdf)
+##  MVVM
 
 
 *  [MVVM PDF File] [link]
